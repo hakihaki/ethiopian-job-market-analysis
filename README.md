@@ -191,8 +191,8 @@ Data Analyst | SQL • Excel • Power BI • HTML/CSS
 🎓 ALX Data Analytics Certificate | BSc Computer Science
 🌍 Addis Ababa, Ethiopia | Open to Remote Roles
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-link)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://hakihaki.github.io/hakihaki.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abdulhakim-mesele-856999416?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://hakihaki.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/hakihaki)
 
 ---
