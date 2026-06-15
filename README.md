@@ -193,7 +193,7 @@ Data Analyst | SQL • Excel • Power BI • HTML/CSS
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-link)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://abdulhakimmesele.github.io/abdulhakim.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/abdulhakimmesele)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/hakihaki)
 
 ---
 
