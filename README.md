@@ -192,7 +192,7 @@ Data Analyst | SQL • Excel • Power BI • HTML/CSS
 🌍 Addis Ababa, Ethiopia | Open to Remote Roles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-link)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://abdulhakimmesele.github.io/abdulhakim.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://hakihaki.github.io/abdulhakim.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/hakihaki)
 
 ---
